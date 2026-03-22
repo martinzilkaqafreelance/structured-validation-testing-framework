@@ -17,3 +17,9 @@ Originally applied in a multi-component environment with 5,000+ scenarios, the f
 - Interpreted results and identified invalid assumptions
 - Guided iterative validation and refinement process
 - Used AI as a tool for implementation, focusing on validation and decision-making
+
+## Scale
+
+- 5,000+ scenarios analysed
+- Multi-component validation
+- Iterative testing across multiple configurations
